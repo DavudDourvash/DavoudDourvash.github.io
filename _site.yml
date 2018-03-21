@@ -1,0 +1,9 @@
+name: "Davoud-website"
+output_dir: "."
+navbar:
+  title: "Davoud Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
