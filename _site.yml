@@ -5,5 +5,14 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Intermediate R"
+      href: RIntermediate.html
+    - text: "Projects"
+      href: Projects.html
     - text: "About Me"
       href: about.html
+
+output:
+ html_document:
+   theme: flatly
+   css: style.css
